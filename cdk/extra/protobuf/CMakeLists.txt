@@ -57,7 +57,7 @@
 # - fix minor compilation issues on SunPro 5.14.0
 
 
-cmake_minimum_required(VERSION 3.1)
+cmake_minimum_required(VERSION 3.8)
 PROJECT(Protobuf)
 
 include(../setup.cmake)
